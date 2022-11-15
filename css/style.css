@@ -1,0 +1,38 @@
+/* * {
+    outline: 1px dotted red;
+} */
+.header-title{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(65, 64, 64);
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+#temp-sec-input{
+    padding-top: 20px;
+}
+
+#temp-sec-output{
+    padding-top: 20px;
+}
+
+h6 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container-fluid{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(65, 64, 64);
+}
+
+footer{
+    margin-top: 505px;
+    background-color: rgb(65, 64, 64);
+}
